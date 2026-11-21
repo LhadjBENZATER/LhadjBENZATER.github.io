@@ -21,7 +21,13 @@
     "scholarCitations": 5,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 4,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-21",
+    "extra": [
+      {
+        "label": "Code & examples",
+        "url": "https://github.com/LhadjBENZATER/LNA-Design"
+      }
+    ]
   },
   {
     "id": "rd",
@@ -200,7 +206,13 @@
     "scholarCitations": 7,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 6,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-21",
+    "extra": [
+      {
+        "label": "Code & examples",
+        "url": "https://github.com/LhadjBENZATER/Overlap-and-Correlation-based-fusion-rule"
+      }
+    ]
   },
   {
     "id": "thz",
@@ -255,6 +267,10 @@
       {
         "label": "EURASIP full text",
         "url": "https://eurasip.org/Proceedings/Eusipco/Eusipco2025/pdfs/0002732.pdf"
+      },
+      {
+        "label": "Code & examples",
+        "url": "https://github.com/LhadjBENZATER/Multivector-Redused-set-Matching-Pursuit"
       }
     ],
     "registry": "Crossref",
@@ -377,7 +393,13 @@
     "scholarAsOf": "2026-11-21",
     "scholarNote": "A second Scholar entry lists 1 citation for this work. It is not added to this count because overlap is unknown.",
     "crossrefCitations": 6,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-21",
+    "extra": [
+      {
+        "label": "Code & examples",
+        "url": "https://github.com/LhadjBENZATER/LNA-Design"
+      }
+    ]
   },
   {
     "id": "logt",
@@ -568,6 +590,10 @@
       {
         "label": "Publisher correction",
         "url": "https://doi.org/10.1002/ett.70494"
+      },
+      {
+        "label": "Code & examples",
+        "url": "https://github.com/LhadjBENZATER/Cooperative-Compressed-Spectrum-Sensing"
       }
     ],
     "scholarCitations": 17,
@@ -602,7 +628,13 @@
     "scholarCitations": 13,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 12,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-21",
+    "extra": [
+      {
+        "label": "Code & examples",
+        "url": "https://github.com/LhadjBENZATER/Support-Tracking-in-CS"
+      }
+    ]
   },
   {
     "id": "enhancing",

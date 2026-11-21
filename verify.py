@@ -17,3 +17,9 @@ for p in records:
   if key in p:assert isinstance(p[key],int) and p[key]>=0
 for name in ('styles.css','app.js','contact.vcf','sitemap.xml','robots.txt'):assert (d/name).is_file()
 print('Verified standalone origin, catalogue identity, source-specific citation counts, assets and anchors.')
+
+
+assert 'id="code"' in page
+for name in ['Multivector-Redused-set-Matching-Pursuit', 'Cooperative-Compressed-Spectrum-Sensing', 'Support-Tracking-in-CS', 'Overlap-and-Correlation-based-fusion-rule', 'LNA-Design']:
+ assert 'https://github.com/LhadjBENZATER/'+name in page
+print('Verified five research-code links and software section.')
