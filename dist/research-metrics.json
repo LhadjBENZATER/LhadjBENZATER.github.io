@@ -1,0 +1,90 @@
+{
+  "asOf": "2026-11-21",
+  "provenance": "User-supplied Google Scholar snapshot and Web of Science review-record list; not a live feed.",
+  "scholar": {
+    "url": "https://scholar.google.com/citations?user=EIegGugAAAAJ&hl=fr",
+    "citations": 68,
+    "hIndex": 5,
+    "i10Index": 2,
+    "profileEntries": 28,
+    "since2021": {
+      "citations": 68,
+      "hIndex": 5,
+      "i10Index": 2
+    },
+    "asOf": "2026-11-21"
+  },
+  "peerReview": {
+    "url": "https://www.webofscience.com/wos/author/record/KBB-2975-2024",
+    "researcherId": "KBB-2975-2024",
+    "records": 76,
+    "manuscripts": 43,
+    "journals": [
+      {
+        "name": "Scientific Reports",
+        "manuscripts": 9
+      },
+      {
+        "name": "Discover Artificial Intelligence",
+        "manuscripts": 8
+      },
+      {
+        "name": "Physica Scripta",
+        "manuscripts": 5
+      },
+      {
+        "name": "Engineering Research Express",
+        "manuscripts": 4
+      },
+      {
+        "name": "Telecom",
+        "manuscripts": 3
+      },
+      {
+        "name": "Measurement Science and Technology",
+        "manuscripts": 3
+      },
+      {
+        "name": "IEEE Transactions on Consumer Electronics",
+        "manuscripts": 2
+      },
+      {
+        "name": "IEEE Transactions on Signal Processing",
+        "manuscripts": 1
+      },
+      {
+        "name": "Signals",
+        "manuscripts": 1
+      },
+      {
+        "name": "Electronics Letters",
+        "manuscripts": 1
+      },
+      {
+        "name": "International Journal of Electrical and Electronic Engineering & Telecommunications",
+        "manuscripts": 1
+      },
+      {
+        "name": "Discover Computing",
+        "manuscripts": 1
+      },
+      {
+        "name": "Wireless Personal Communications",
+        "manuscripts": 1
+      },
+      {
+        "name": "International Journal of Machine Learning and Cybernetics",
+        "manuscripts": 1
+      },
+      {
+        "name": "Journal of Optics",
+        "manuscripts": 1
+      },
+      {
+        "name": "Journal of King Saud University – Computer and Information Sciences",
+        "manuscripts": 1
+      }
+    ],
+    "asOf": "2026-11-21"
+  }
+}

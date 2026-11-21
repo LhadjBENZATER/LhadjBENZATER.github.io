@@ -1,0 +1,24 @@
+{
+  "attemptedAt": "2026-11-21T21:23:48+00:00",
+  "added": 0,
+  "orcid": {
+    "ok": true,
+    "workGroups": 23,
+    "doiCount": 25,
+    "checkedAt": "2026-11-21T21:23:48+00:00"
+  },
+  "crossref": {
+    "ok": true,
+    "checkedAt": "2026-11-21T21:23:48+00:00",
+    "recordsRead": 19,
+    "failures": []
+  },
+  "scholar": "Dated source figures retained; no automated scraping.",
+  "webOfScience": "Dated source figures retained; no licensed API configured.",
+  "repositories": {
+    "retainedDois": 6,
+    "note": "Zenodo repository DOIs and version/concept aliases are retained; they are not Crossref citation records."
+  },
+  "result": "updated",
+  "lastSuccessfulAt": "2026-11-21T21:23:48+00:00"
+}
