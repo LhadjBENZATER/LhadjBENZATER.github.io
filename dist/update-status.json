@@ -1,17 +1,22 @@
 {
-  "attemptedAt": "2026-11-21T21:56:25+00:00",
+  "attemptedAt": "2026-11-21T23:04:58+00:00",
   "added": 0,
   "orcid": {
     "ok": true,
     "workGroups": 23,
     "doiCount": 25,
-    "checkedAt": "2026-11-21T21:56:25+00:00"
+    "checkedAt": "2026-11-21T23:04:58+00:00"
   },
   "crossref": {
     "ok": true,
-    "checkedAt": "2026-11-21T21:56:25+00:00",
-    "recordsRead": 19,
-    "failures": []
+    "checkedAt": "2026-11-21T23:04:58+00:00",
+    "recordsRead": 18,
+    "failures": [
+      {
+        "doi": "10.1109/icsmacs68968.2026.11628492",
+        "error": "HTTP Error 429: Too Many Requests"
+      }
+    ]
   },
   "scholar": "Dated source figures retained; no automated scraping.",
   "webOfScience": "Dated source figures retained; no licensed API configured.",
@@ -19,6 +24,6 @@
     "retainedDois": 6,
     "note": "Zenodo repository DOIs and version/concept aliases are retained; they are not Crossref citation records."
   },
-  "result": "updated",
-  "lastSuccessfulAt": "2026-11-21T21:56:25+00:00"
+  "result": "partial",
+  "lastSuccessfulAt": "2026-11-21T23:04:58+00:00"
 }
