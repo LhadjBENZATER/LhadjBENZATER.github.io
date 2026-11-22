@@ -21,7 +21,7 @@
     "scholarCitations": 5,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 4,
-    "crossrefAsOf": "2026-11-21",
+    "crossrefAsOf": "2026-11-22",
     "extra": [
       {
         "label": "Code & examples",
@@ -50,7 +50,7 @@
     "scholarCitations": 0,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 0,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "chaos",
@@ -81,7 +81,7 @@
     "scholarCitations": 0,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 0,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "clutter",
@@ -113,7 +113,7 @@
     "scholarCitations": 0,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 0,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "array",
@@ -145,7 +145,7 @@
     "scholarCitations": 0,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 0,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "unified",
@@ -176,7 +176,7 @@
     "scholarCitations": 0,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 0,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "blind",
@@ -206,7 +206,7 @@
     "scholarCitations": 7,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 6,
-    "crossrefAsOf": "2026-11-21",
+    "crossrefAsOf": "2026-11-22",
     "extra": [
       {
         "label": "Code & examples",
@@ -243,7 +243,7 @@
     "scholarCitations": 2,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 2,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "mrmp",
@@ -283,7 +283,7 @@
     "scholarCitations": 4,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 2,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "kl",
@@ -308,7 +308,7 @@
     "scholarCitations": 2,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 1,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "plates",
@@ -338,7 +338,7 @@
     "scholarCitations": 1,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 1,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "petalinux",
@@ -368,7 +368,7 @@
     "scholarCitations": 1,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 1,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "optimized",
@@ -393,7 +393,7 @@
     "scholarAsOf": "2026-11-21",
     "scholarNote": "A second Scholar entry lists 1 citation for this work. It is not added to this count because overlap is unknown.",
     "crossrefCitations": 6,
-    "crossrefAsOf": "2026-11-21",
+    "crossrefAsOf": "2026-11-22",
     "extra": [
       {
         "label": "Code & examples",
@@ -430,7 +430,7 @@
     "scholarCitations": 1,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 1,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "sidelobe",
@@ -599,7 +599,7 @@
     "scholarCitations": 17,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 14,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "scheme",
@@ -628,7 +628,7 @@
     "scholarCitations": 13,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 12,
-    "crossrefAsOf": "2026-11-21",
+    "crossrefAsOf": "2026-11-22",
     "extra": [
       {
         "label": "Code & examples",
@@ -682,7 +682,7 @@
     "scholarAsOf": "2026-11-21",
     "scholarNote": "Scholar lists related entries under 2023 and 2025. These are consolidated here; the publisher citation year remains 2024.",
     "crossrefCitations": 5,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "bss",
@@ -704,7 +704,7 @@
     "scholarCitations": 0,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 0,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   },
   {
     "id": "correction",
@@ -729,6 +729,6 @@
     "scholarCitations": 0,
     "scholarAsOf": "2026-11-21",
     "crossrefCitations": 0,
-    "crossrefAsOf": "2026-11-21"
+    "crossrefAsOf": "2026-11-22"
   }
 ]
